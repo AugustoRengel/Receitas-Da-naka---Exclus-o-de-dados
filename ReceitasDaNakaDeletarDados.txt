@@ -1,0 +1,1 @@
+Para deletar os seus dados do nosso banco de dados, utilize a opção de deletar na pagina "minha conta" do aplicativo, com isso seus dados serão deletados.
